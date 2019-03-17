@@ -1,4 +1,4 @@
-# Language-detection-machine-learning-project-
+# Language-detection-machine-learning-project-1-
 
 ## Program to detect language of speech and text
 
